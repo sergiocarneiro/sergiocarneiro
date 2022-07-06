@@ -10,4 +10,4 @@ Both UX and DX are very important to me. I value clean code and documentation, r
 
 💎 Acquainted with: Angular, Typescript, No-SQL
 
-🌱 Currently into: React, Remix, Prisma, NX
+🌱 Currently into: React, Remix, Prisma
