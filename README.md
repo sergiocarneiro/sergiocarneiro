@@ -10,4 +10,4 @@ _Spent my first 4 years developing native Android apps; then moved to web apps u
 
 💎 Acquainted with: Angular, Typescript, No-SQL
 
-🌱 Currently into: React, Remix, EdgeQL
+🌱 Currently into: React, Remix, EdgeDB, Cloudflare
