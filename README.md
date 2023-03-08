@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've been a software engineer for +9 years of experience, co-founded of a software company currently dedicated to the food industry.
+I've been a software engineer for 10 years, co-founded of a software company currently dedicated to the food industry.
 
 I'm also engaged in the user experience process and believe that user-centric development is the key to success.
 
