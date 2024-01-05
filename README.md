@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I've been a software engineer for 10 years, co-founded of a software company currently dedicated to the food industry.
+I've been a software engineer for +10 years, developing my own products.
 
-I'm also engaged in the user experience process and believe that user-centric development is the key to success.
+I'm engaged in the user experience process and believe that user-centric development is the key to success.
 
 Both UX and DX are very important to me. I value clean code and documentation, readable to everyone from all skill levels, and love to share knowledge with them.
 
