@@ -8,6 +8,4 @@ I value the process as much as the outcome, as an engaging work life is what dri
 
 _Spent my first 4 years developing native Android apps; then moved to web apps using Angular and Ionic; then explored game dev with Unity and C# for 2 years; and now I'm back with apps using React and all the new tech._
 
-💎 Acquainted with: Angular, Typescript, No-SQL
-
-🌱 Currently into: React, Remix, EdgeDB, Cloudflare
+💎 Currently with: React, Remix, EdgeDB, Cloudflare _(since 2022)_
